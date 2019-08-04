@@ -1,0 +1,74 @@
+
+==========================================
+Printing information about member number 0
+First Name: 
+Second Name: œißuÿ
+Address: ÿ
+Annual Fee Value: 0
+Payment Status: 0
+(0 for PAID / 1 for NOT PAID)
+Email: 
+Handicapped? 0
+(0 for NOT HANDICAPPED / 1 for HANDICAPPED)
+Bracket: 0
+(0 for JUVENILLE / 1 for JUNIOR / 2 for STUDENT / 3 for FULL)
+Frequency of Golf (in weeks): 0
+(0 for NEVER / 1 for ONCE / 2 for TWICE / 3 for MORE )
+Frequency in the Restaurant (in weeks): 0
+(0 for NEVER / 1 for ONCE / 2 for TWICE / 3 for MORE )
+Rating: 0
+(0 for BAD / 1 for DISAPPOINTING / 2 for SATISFACTORY / 3 for VERY GOOD / 4 for EXCELLENT )
+==========================================
+
+
+==========================================
+Printing information about member number 1
+First Name: Lucassssss
+Second Name: Azeve
+Address: 1231
+Annual Fee Value: 1
+Payment Status: 1
+(0 for PAID / 1 for NOT PAID)
+Email: 1
+Handicapped? 1
+(0 for NOT HANDICAPPED / 1 for HANDICAPPED)
+Bracket: 1
+(0 for JUVENILLE / 1 for JUNIOR / 2 for STUDENT / 3 for FULL)
+Frequency of Golf (in weeks): 1
+(0 for NEVER / 1 for ONCE / 2 for TWICE / 3 for MORE )
+Frequency in the Restaurant (in weeks): 1
+(0 for NEVER / 1 for ONCE / 2 for TWICE / 3 for MORE )
+Rating: 1
+(0 for BAD / 1 for DISAPPOINTING / 2 for SATISFACTORY / 3 for VERY GOOD / 4 for EXCELLENT )
+==========================================
+
+
+==========================================
+Printing information about member number 3
+First Name: george
+Second Name: rock
+Address: 1092hd
+Annual Fee Value: 1
+Payment Status: 1
+(0 for PAID / 1 for NOT PAID)
+Email: 1
+Handicapped? 1
+(0 for NOT HANDICAPPED / 1 for HANDICAPPED)
+Bracket: 1
+(0 for JUVENILLE / 1 for JUNIOR / 2 for STUDENT / 3 for FULL)
+Frequency of Golf (in weeks): 1
+(0 for NEVER / 1 for ONCE / 2 for TWICE / 3 for MORE )
+Frequency in the Restaurant (in weeks): 1
+(0 for NEVER / 1 for ONCE / 2 for TWICE / 3 for MORE )
+Rating: 1
+(0 for BAD / 1 for DISAPPOINTING / 2 for SATISFACTORY / 3 for VERY GOOD / 4 for EXCELLENT )
+==========================================
+
+The percentage of people that NEVER play golf is: 33.00%
+The percentage of people that play golf ONCE a week is: 66.00%
+The percentage of people that play golf TWICE a week is: 0.00%
+The percentage of people that play golf more than TWICE a week is: 0.00%
+The percentage of people that NEVER use the club's restaurant is: 33.00%
+The percentage of people that use the club's restaurant ONCE a week is: 66.00%
+The percentage of people that use the club's restaurant TWICE a week is: 0.00%
+The percentage of people that use the club's restaurant more than TWICE a week is: 0.00%
