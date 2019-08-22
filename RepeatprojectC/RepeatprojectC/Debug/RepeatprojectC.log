@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\David\source\repos\RepeatprojectC\RepeatprojectC\Source.c(28,6): warning C4101:  'op': unreferenced local variable
+  RepeatprojectC.vcxproj -> C:\Users\David\source\repos\RepeatprojectC\Debug\RepeatprojectC.exe
